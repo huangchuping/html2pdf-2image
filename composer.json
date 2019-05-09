@@ -8,7 +8,7 @@
             "name": "hcp",
             "email": "hcp0224@163.com"
         }
-    ]
+    ],
     "require": {
         "php": ">=7.0.0"
     },
