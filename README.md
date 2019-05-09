@@ -21,7 +21,7 @@ More information to see: https://wkhtmltopdf.org/
 
 ## Install
 
-`composer require biaoqianwo/php-htmltopdf-htmltoimage`
+`composer require html2pdf/html2pdf-2image`
 
 ## Quick Start and Examples
 
