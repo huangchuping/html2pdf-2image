@@ -8,8 +8,7 @@
             "name": "hcp",
             "email": "hcp0224@163.com"
         }
-    ],
-    "minimum-stability": "master",
+    ]
     "require": {
         "php": ">=7.0.0"
     },
