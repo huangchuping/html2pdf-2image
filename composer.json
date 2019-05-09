@@ -3,7 +3,6 @@
     "description": "transfer html to pdf or image",
     "keywords": ["html",  "pdf", "image"],
     "type": "php7-extension",
-    "license": "HCP",
     "authors": [
         {
             "name": "hcp",
